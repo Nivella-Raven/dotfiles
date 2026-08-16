@@ -1,0 +1,20 @@
+input {
+    keyboard {
+        xkb {
+            layout "us"
+        }
+
+        repeat-delay 500
+        repeat-rate 25
+    }
+
+    touchpad {
+        tap
+        dwt
+        natural-scroll
+    }
+
+    mouse {
+        accel-profile "adaptive"
+    }
+}

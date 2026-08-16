@@ -1,0 +1,7 @@
+include "conf.d/10-input.kdl"
+include "conf.d/20-output.kdl"
+include "conf.d/30-layout.kdl"
+include "conf.d/40-binds.kdl"
+include "conf.d/50-window-rules.kdl"
+include "conf.d/60-startup.kdl"
+include "conf.d/90-misc.kdl"

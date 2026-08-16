@@ -1,0 +1,5 @@
+# Generated Python tooling caches
+.ruff_cache/
+.pytest_cache/
+__pycache__/
+*.py[cod]
