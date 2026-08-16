@@ -19,6 +19,10 @@ autocmd({
 }, {
 	group = general_group,
 	callback = function()
+		if vim.fn.getcmdwintype() ~= "" then
+			return
+		end
+
 		vim.cmd("checktime")
 	end,
 })
