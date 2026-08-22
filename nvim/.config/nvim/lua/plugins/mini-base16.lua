@@ -20,6 +20,30 @@ vim.pack.add({"https://github.com/nvim-mini/mini.base16",})
 -- base0F (15): Delimiters, special characters, indent scope
 
 local themes = {
+	ayu = {
+		palette = {
+			base00 = "#0b0e14",
+			base01 = "#131721",
+			base02 = "#202229",
+			base03 = "#3e4b59",
+			base04 = "#bfbdb6",
+			base05 = "#e6e1cf",
+			base06 = "#ece8db",
+			base07 = "#f2f0e7",
+			base08 = "#f07178",
+			base09 = "#ff8f40",
+			base0A = "#ffb454",
+			base0B = "#aad94c",
+			base0C = "#95e6cb",
+			base0D = "#59c2ff",
+			base0E = "#d2a6ff",
+			base0F = "#e6b450",
+		},
+		highlights = {
+			Identifier = "base05",
+			["@property"] = "base0A",
+		},
+	},
 	noctalia = {
 		palette = {
 			base00 = "#070722",
