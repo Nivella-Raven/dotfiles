@@ -1,5 +1,0 @@
-output "DSI-2" {
-    mode "1280x720@59.901"
-    scale 1.0
-    focus-at-startup
-}

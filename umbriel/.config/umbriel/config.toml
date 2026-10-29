@@ -1,0 +1,13 @@
+[include]
+files = [
+    "src/general.toml",
+    "src/appearance.toml",
+    "src/input.toml",
+    "src/keybinds.toml",
+    "src/layout.toml",
+    "src/rules.toml",
+    "machines/mind-pro.toml",
+]
+
+[include.optional]
+files = []

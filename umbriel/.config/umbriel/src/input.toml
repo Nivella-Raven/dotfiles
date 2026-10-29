@@ -1,0 +1,9 @@
+[input.keyboard]
+layout = ""
+variant = ""
+options = ""
+model = ""
+repeat_rate = 25
+repeat_delay = 600
+numlock_toggle = false
+track_layout = "global"

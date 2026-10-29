@@ -1,0 +1,8 @@
+[output.HDMI-A-1]
+mode = "3440x1440@120"
+position = [0, 0]
+scale = 1.0
+focus_at_startup = true
+
+[output.HDMI-A-1.layout.scrolling]
+default_extent_fraction = 0.333

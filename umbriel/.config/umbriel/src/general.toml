@@ -1,0 +1,10 @@
+[general]
+autostart = ["noctalia","fcitx5 -d",]
+mod_key = "Super"
+xwayland = true
+xwayland_native_resolution = false
+xwayland_xsettings = true
+show_cheatsheet = true
+focus_on_activate = false
+attach_modal_dialogs = true
+honor_restored_maximize = false
